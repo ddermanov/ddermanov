@@ -1,4 +1,4 @@
-## Hi there, I am Max 👋
+## Hi there, I am Dorian 👋
 
 [![Contact](https://img.shields.io/badge/Contact-&#128231;-blue.svg)](mailto:dorian.dermanovic@outlook.com)
 
