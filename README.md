@@ -4,7 +4,7 @@
 
 * 💻 I am Cloud Infrastructure Engineer and former Employee of the European Space Agency
 
-* 💻 I am also a artist that publishes his work from time to time on [Artstation]([https://bethesda.net/](https://www.artstation.com/aliiusthebearded))
+* 💻 I am also a artist that publishes his work from time to time on [Artstation]([Artstation](https://www.artstation.com/aliiusthebearded))
 
 
 ## Random stats
