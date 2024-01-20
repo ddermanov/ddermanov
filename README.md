@@ -10,3 +10,6 @@
 ## Random stats
 
 ![ddermanov's github stats](https://github-readme-stats-ddermanovs-projects.vercel.app/api?username=ddermanov&count_private=true&show=reviews&show_icons=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage=true&theme=gotham)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=PhoenixUProj-HogWarpSpecific)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=HogWarp-client-sample)](https://github.com/anuraghazra/github-readme-stats)
