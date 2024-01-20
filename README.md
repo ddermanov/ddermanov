@@ -9,4 +9,4 @@
 
 ## Random stats
 
-[![ddermanov's github stats](https://github-readme-stats-ddermanovs-projects.vercel.app/api?username=ddermanov&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ddermanov's github stats](https://github-readme-stats-ddermanovs-projects.vercel.app/api?username=ddermanov&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
